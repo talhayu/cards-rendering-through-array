@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+}
+.main{
+    border: .1rem solid black;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    margin: 2rem;
+}
+.card{
+    border: .1rem solid brown;
+    padding: 2rem;
+    margin: 2rem;
+}
